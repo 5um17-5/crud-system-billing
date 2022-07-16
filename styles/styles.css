@@ -1,0 +1,14 @@
+body{
+    font: 14px sans-serif;
+}
+
+.wrapper {
+    width: 350px;
+    padding-top: 30px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.body p {
+    background-color: black;
+}

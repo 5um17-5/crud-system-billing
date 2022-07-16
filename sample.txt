@@ -1,0 +1,1 @@
+<a href="add_purchase_bills.php"><button class="btn btn-outline-success btn-sm">Add Purchase bills</button></a> <button class="btn btn-outline-success btn-sm">Check Purchase History</button>
